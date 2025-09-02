@@ -433,7 +433,7 @@ export const themes = {
     text_color: "ADE8F4",
     icon_color: "5FABEE",
     border_color: "85A4C0",
-    bg_color: "030314",
+    bg_color: "0d1117",
   },
   neon: {
     title_color: "00EAD3",
